@@ -10,4 +10,6 @@ public class Add {
         System.out.println("The ans is : "+sum);
         sc.close();
     }
+
+    
 }
