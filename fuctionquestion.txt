@@ -1,0 +1,36 @@
+Number Programming Questions
+1.	WAP to print natural numbers up-to 'n'✅
+2.	WAP to print all even numbers between two given range✅
+3.	WAP to print 'n' natural numbers in reverse order✅
+4.	WAP to find sum of 'n' natural numbers✅
+5.	WAP to find product of 'n' natural numbers
+6.	WAP to extract and display all digits from a given number
+7.	WAP to find sum of all digits in a given number
+8.	WAP to find the count of all digits in a given number
+9.	WAP to print reverse of a given number
+10.	WAP to check a number is palindrome or not
+11.	WAP to find all factors of a given number
+12.	WAP to find sum of all factors of a given number
+13.	WAP to count all the factors of a given number and display it
+14.	WAP to check a number is prime or not
+15.	WAP to print all prime numbers between 1 to 100
+16.	WAP to print all prime numbers between two given range
+17.	WAP to print alternate prime numbers between 1 to 100
+18.	WAP to check a number is perfect or not
+19.	WAP to print all perfect numbers between 1 to 100
+20.	WAP to print all the perfect number between two given range
+21.	WAP to check a number is Armstrong or not
+22.	WAP to print all Armstrong number between 1 to 100
+23.	WAP to print all Armstrong number between two given range
+24.	WAP to check if a number is a Harshad number
+25.	WAP to find LCM of two numbers
+26.	WAP to find GCD (HCF) of two numbers
+27.	WAP to find factorial of a number
+28.	WAP to print Fibonacci series up to n terms
+29.	WAP to print Fibonacci numbers in a given range
+30.	WAP to swap two numbers
+31.	WAP to swap first and last digit of a number
+32.	WAP to calculate the sum of alternate digits in a number
+33.	WAP to check whether the number is duck number
+34.	WAP to check if a number is a Buzz number
+35.	WAP to check if a number is a Magic Number

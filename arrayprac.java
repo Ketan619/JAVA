@@ -68,23 +68,23 @@
 //     }
 //  }
 // Count karna kitne even aur odd numbers hain
-// public class arrayprac{
-//     public static void main(String[] args) {
-//         int arr[]={1,2,3,4,5};
-//     for (int i = 0; i < arr.length; i++) {
-//         if (arr[i]%2==0) {
-//             System.out.println("even" +arr[i]);
-//         }
+public class arrayprac{
+    public static void main(String[] args) {
+        int arr[]={1,2,3,4,5};
+    for (int i = 0; i < arr.length; i++) {
+        if (arr[i]%2==0) {
+            System.out.println("even" +arr[i]);
+        }
 
-//         System.out.println(arr[i]);
-//     }
-//     for (int i = 0; i < arr.length; i++) {
-//         if (arr[i]%2==1) {
-//             System.out.println("odd" +arr[i]);
-//         }
+        System.out.println(arr[i]);
+    }
+    for (int i = 0; i < arr.length; i++) {
+        if (arr[i]%2==1) {
+            System.out.println("odd" +arr[i]);
+        }
 
-//         System.out.println(arr[i]);
-//     }
-//     }
+        System.out.println(arr[i]);
+    }
+    }
     
-// }
+}

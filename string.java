@@ -12,6 +12,7 @@
 //    } 
 // }
 public class string{
+    
     public static void main(String[] args) {
         // String str="EE SALA ";
         // String str2="CUP NAMDE";
