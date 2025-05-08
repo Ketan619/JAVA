@@ -1,20 +1,20 @@
 // 1.	WAP to print natural numbers up-to 'n'✅
-// import java.util.Scanner;
-// public class fuction_prac {
-//     public  void natural(int a){
-//         for (int i = 1; i <=a; i++) {
-//            System.out.println(i);
-//         }
-//     }
-//     public static void main(String[] args) {
-//         java.util.Scanner sc= new Scanner(System.in);
-//         System.out.println("Enter Your end Digit:");
-//         int a=sc.nextInt();
-//        fuction_prac obj=new fuction_prac();
+import java.util.Scanner;
+public class fuction_prac {
+    public  void natural(int a){
+        for (int i = 1; i <=a; i++) {
+           System.out.println(i);
+        }
+    }
+    public static void main(String[] args) {
+        java.util.Scanner sc= new Scanner(System.in);
+        System.out.println("Enter Your end Digit:");
+        int a=sc.nextInt();
+       fuction_prac obj=new fuction_prac();
 
-//        obj.natural(a);
-//     }
-// }
+       obj.natural(a);
+    }
+}
 // import java.util.Scanner;
 // public class fuction_prac {
 
@@ -100,16 +100,16 @@
 //     }
 // }
 // WAP to print reverse of a given number
-public class fuction_prac {
-public static void main(String[] args) {
-    int num =1234;
-    int rev=0;
-    for (int i=num; i!=0; i=i/10) {
-        int dg=i%10;
-        rev=rev*10+dg;
+// public class fuction_prac {
+// public static void main(String[] args) {
+//     int num =1234;
+//     int rev=0;
+//     for (int i=num; i!=0; i=i/10) {
+//         int dg=i%10;
+//         rev=rev*10+dg;
      
-    }
-    System.out.println(rev);
-}
+//     }
+//     System.out.println(rev);
+// }
     
-}
+// }
