@@ -1,4 +1,4 @@
-package main;
+
 
 public class oop6 {
     public static void main(String[] args) {

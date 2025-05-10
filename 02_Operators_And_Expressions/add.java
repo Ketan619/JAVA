@@ -1,4 +1,4 @@
-package main;
+
 
 public class add {
     public void plus(int a, int b) {
