@@ -30,6 +30,7 @@ public class string{
         
         // System.out.println(sb.toString());
         // System.out.println(sb.capacity());
+        
 int arr[]={1,3,4,6};
 System.out.println("YOUR ARRAY IS  :");
 for (int i = 0; i < arr.length; i++) {
