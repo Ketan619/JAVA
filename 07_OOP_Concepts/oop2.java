@@ -1,7 +1,6 @@
 // class Student {
 //     String firstName="rahul";
 //     int age=15;
-
 // // paramartized //
 // Student (String firstName ,int age){
 //     this.firstName=firstName;
