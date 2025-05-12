@@ -2,7 +2,7 @@
 abstract class shape{
     abstract void Area(double r,double l,double b);
      void Method (){
-        System.out.println("===================//=====================");
+        System.out.println("===================//=========================");
     }
 }
 
