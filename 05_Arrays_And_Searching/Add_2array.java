@@ -15,6 +15,13 @@ public class Add_2array {
     }
            
 }
+
+
+
+
+
+
+
 // package Array;
 // import java.util.*;
 // public class Add_2array {
