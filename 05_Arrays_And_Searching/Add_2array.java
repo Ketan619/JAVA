@@ -13,7 +13,7 @@ public class Add_2array {
         }
         sc.close();
     }
-    
+           
 }
 // package Array;
 // import java.util.*;
