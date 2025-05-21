@@ -1,5 +1,5 @@
 
-interface Client1{
+interface Client1{    
     void show();
 }
 interface Client2{
