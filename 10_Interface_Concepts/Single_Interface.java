@@ -13,10 +13,10 @@ class Dev implements Single_Interface{
         System.out.println("Show the Menu");
     }
 }
-class main{
-    public static void main(String[] args) {
-        Dev obj = new Dev();
-        obj.print();
-        obj.show();
-    }
-}
+// class main{
+//     public static void main(String[] args) {
+//         Dev obj = new Dev();
+//         obj.print();
+//         obj.show();
+//     }
+// }
