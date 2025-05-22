@@ -1,4 +1,4 @@
-package ExceptionHAndling;
+
 
 import java.util.Scanner;
 

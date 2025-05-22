@@ -1,4 +1,4 @@
-package ExceptionHAndling;
+
 
 public class userInput2 {
     public static void main(String[] args) {

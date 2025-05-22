@@ -1,4 +1,4 @@
-package ExceptionHAndling;
+
 
 public class class2EH {
     public static void main(String[] args) {

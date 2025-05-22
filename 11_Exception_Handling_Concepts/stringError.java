@@ -1,4 +1,4 @@
-package ExceptionHAndling;
+
 
 public class stringError {
     public static void main(String[] args) {
