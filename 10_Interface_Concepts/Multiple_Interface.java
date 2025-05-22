@@ -1,4 +1,4 @@
-
+//bill
 interface Client1{    
     void show();
 }
@@ -6,7 +6,7 @@ interface Client2{
     void print();
     void show();
 }
-public class Multiple_interface implements Client1,Client2{
+public class Multiple_Interface implements Client1,Client2{
     @Override
     public void show() {
         System.out.println("Show the Menu");
@@ -16,7 +16,7 @@ public class Multiple_interface implements Client1,Client2{
         System.out.println("Print the Bill");
     }
     public static void main(String[] args) {
-        Multiple_interface obj = new Multiple_interface();
+        Multiple_Interface obj = new Multiple_Interface();
         obj.show();
         obj.print();
     }

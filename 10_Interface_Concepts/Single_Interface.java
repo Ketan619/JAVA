@@ -1,10 +1,8 @@
-
-
-interface Client {
+interface Single_Interface {
     void print();
     void show();
 }
-class Dev implements Client{
+class Dev implements Single_Interface{
     @Override
     public void print() {
         System.out.println("Print the Bill");
