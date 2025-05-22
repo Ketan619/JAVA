@@ -1,6 +1,6 @@
 
 
-public class prson {
+public class Encapsulation_01 {
     private String name; // private = restricted access
 
     // Getter

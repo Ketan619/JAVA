@@ -1,13 +1,13 @@
 
-public class Encapsulation {
+public class Encapsulation_02 {
 
     public static void main(String[] args) {
 
-        Encapsulation obj =  new Encapsulation();
+        Encapsulation_02 obj =  new Encapsulation_02();
         obj.setad("enter your addres ");
         System.out.println(obj.getad());
 
-        prson myObj = new prson();
+        Encapsulation_01 myObj = new Encapsulation_01();
         myObj.setName("John"); // Set the value of the name variable to "John"
         System.out.println(myObj.getName());
     }
