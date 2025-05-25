@@ -3,7 +3,7 @@ public class class2EH {
         int[] arr = {1, 2, 3, 4};
 
         try {
-            System.out.println(arr[6]); // This will throw ArrayIndexOutOfBoundsException
+            System.out.println(arr[6]); 
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Index out of bounds! The element you're trying to access does not exist in the array.");
             System.out.println("Exception: " + e);
