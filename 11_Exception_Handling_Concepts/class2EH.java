@@ -8,7 +8,7 @@ public class class2EH {
             System.out.println("Index out of bounds! The element you're trying to access does not exist in the array.");
             System.out.println("Exception: " + e);
         }
-        
-        System.out.println("Exception Handling....|| 21-05-25 ||");
+
+        System.out.println("Exception Handling....|| ||");
     }
 }
