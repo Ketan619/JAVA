@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.TreeSet;
 
-public class Set_Example {
+public class set {
     public static void main(String[] args) {
         int[] arr = {1, 23, 43, 55, 23, 44, 55};
 
