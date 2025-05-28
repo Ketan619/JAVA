@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Hash_problem_02 {
+public class Hash_Map_problem_02 {
     
     public static void main(String[] args) {
        String str="java is programming programming is java";

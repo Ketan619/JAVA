@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Hash_problem_03 {
+public class Hash_Map_problem_03 {
      public static void main(String[] args) {
        String str="aabbcddef";
 

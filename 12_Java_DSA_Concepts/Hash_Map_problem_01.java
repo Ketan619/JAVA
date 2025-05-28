@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Hash_problem_01 {
+public class Hash_Map_problem_01 {
     public static void main(String[] args) {
         String str="PROGRAMMING";
      HashMap<Character,Integer>map=new HashMap<>();
