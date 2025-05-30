@@ -6,7 +6,7 @@ public class Array_List {
         // IPL Team list using ArrayList
         ArrayList<String> teams = new ArrayList<>();
 
-        // 1. Add some teams
+        // 1. Add some items in list 
         teams.add("RCB");
         teams.add("PBSK");
         teams.add("MI");
