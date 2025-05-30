@@ -23,7 +23,7 @@ public class Array_List_iterator_Problem_02 {
 
         int count = 0;
         while (it.hasPrevious()) {
-            String Last = it.previous();
+            String last = it.previous();
             count++;
             if (count != name.size()) {
                 it.set("hello");
