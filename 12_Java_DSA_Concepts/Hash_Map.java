@@ -21,4 +21,4 @@ System.out.println(map1.get(101)); // ➤ Output: Virat
 System.out.println(map1.values()); // ➤ Output: [Virat, ABD]
  }   
 }
-/////
+///////
