@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class CountEvenOdd {
+public class Count_Even_Odd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter size of array : ");

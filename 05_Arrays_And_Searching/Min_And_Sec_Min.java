@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class MinAndSecMin {
+public class Min_And_Sec_Min {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Size of array : ");

@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class MaxAndSecMax {
+public class Max_And_Sec_Max {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Size of array : ");
