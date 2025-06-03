@@ -1,5 +1,5 @@
 
-
+////////////
 public class reverse {
     public static void main(String[] args) {
         int[] arr ={0,10,20,40,50};
