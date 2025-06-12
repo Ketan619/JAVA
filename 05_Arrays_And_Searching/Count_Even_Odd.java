@@ -1,4 +1,4 @@
-///////////////
+//////////////////
 import java.util.Scanner;
 public class Count_Even_Odd {
     public static void main(String[] args) {
