@@ -1,4 +1,4 @@
-package TwoDarray;
+
 
 public class SumOfMatrix {
     public static void main(String[] args) {

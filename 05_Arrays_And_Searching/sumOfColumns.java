@@ -1,4 +1,4 @@
-package TwoDarray;
+
 
 public class sumOfColumns {
     public static void main(String[] args) {

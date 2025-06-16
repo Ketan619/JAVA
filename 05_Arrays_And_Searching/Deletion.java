@@ -1,4 +1,4 @@
-package Array;
+
 import java.util.Scanner;
 public class Deletion {
     public static void main(String[] args) {
@@ -21,4 +21,3 @@ public class Deletion {
         }
     }
 }
-//////
