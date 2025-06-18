@@ -25,7 +25,7 @@ public class Add_2array {
 
 
 
-///////////////
+//////////////////
 
 // import java.util.*;
 // public class Add_2array {
