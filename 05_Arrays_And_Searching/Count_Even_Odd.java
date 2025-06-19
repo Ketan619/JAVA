@@ -23,4 +23,3 @@ public class Count_Even_Odd {
         System.out.println("No. of Odds in array : "+OddCount);
     }
 }
-////
