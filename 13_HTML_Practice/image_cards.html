@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Cards</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      height: 100vh;
+      margin: 0;
+      gap: 20px;
+      background-color: #f5f5f5;
+    }
+
+    #parent {
+      margin: 10px;
+      height: 300px;
+      width: 250px;
+      border-radius: 11px;
+      background-color: whitesmoke;
+      box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+                  rgba(0, 0, 0, 0.12) 0px -12px 30px, 
+                  rgba(0, 0, 0, 0.12) 0px 4px 6px, 
+                  rgba(0, 0, 0, 0.17) 0px 12px 13px, 
+                  rgba(0, 0, 0, 0.09) 0px -3px 5px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    #child-a img {
+      height: 100%;
+      width: 100%;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+
+    #child-b img {
+      height: 40%;
+      width: 50%;
+      position: absolute;
+      bottom: 80px;
+      left: 60px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid white;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="parent">
+    <div id="child-a"> 
+      <img src="louis-hansel-1keEJmqm8vU-unsplash.jpg" />
+    </div>
+    <div id="child-b">
+      <img src="KASHMIR (1) (1) (1).png" />
+    </div>
+  </div>
+
+  <div id="parent">
+    <div id="child-a"> 
+      <img src="louis-hansel-1keEJmqm8vU-unsplash.jpg" />
+    </div>
+    <div id="child-b">
+      <img src="KASHMIR (1) (1) (1).png" />
+    </div>
+  </div>
+
+  <div id="parent">
+    <div id="child-a"> 
+      <img src="louis-hansel-1keEJmqm8vU-unsplash.jpg" />
+    </div>
+    <div id="child-b">
+      <img src="KASHMIR (1) (1) (1).png" />
+    </div>
+  </div>
+
+</body>
+</html>
