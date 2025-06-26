@@ -18,6 +18,6 @@ public class Arraysum {
                 sum += arr[i];         }
             System.out.println("Sum = " + sum);
         }
-    }
+}
 ///////
 ////////////////
