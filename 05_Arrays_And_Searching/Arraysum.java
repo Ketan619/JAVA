@@ -19,5 +19,5 @@ public class Arraysum {
             System.out.println("Sum = " + sum);
         }
 }
-////////////////
+//////////////
 ///////////////
